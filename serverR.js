@@ -14,7 +14,7 @@ app.use(
   cors({
     origin: [
       'http://localhost:5173',
-      'https://vinyl-webstore-frontend.vercel.app',
+      'https://vinil-web-store-frontend.vercel.app',
     ],
     credentials: true,
   })
